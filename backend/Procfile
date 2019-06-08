@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT nuwave_media_4414.wsgi:application

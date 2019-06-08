@@ -1,0 +1,3 @@
+rootProject.name = 'nuwave_media_4414'
+
+include ':app'
